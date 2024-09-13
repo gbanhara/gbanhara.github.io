@@ -5,5 +5,5 @@ title: LLM
 #social:
 #  github: https://github.com/gbanhara
 #  linkedin: https://linkedin.com/in/gustavobanhara
-theme: jekyll-theme-minimal
-#theme: jekyll-theme-cayman
+# theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
