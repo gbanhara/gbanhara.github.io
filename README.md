@@ -17,13 +17,13 @@
 **Marketing Data Analytics Manager @ Visa (_Jul 2023 - Dez 2023_)**
 - text
   
-**Data Scientist Consultant @ Cogna (_Dec 2022 - Dez 2023_)**
+**Lead Data Scientist @ Unisys (_Jan 2017 - Oct 2017_)**
 -  text
    
-**Data Engineer @ Blueshift (_Oct 2021 - Jan 2023_)**
+**Data Analytics Manager @ EY (_Nov 2015 - Jan 2017_)**
 -  text
   
-**Assistant Researcher @ IBM (_Jan 2018 - Jan 2020_)**
+**Data Management Specialist @ HSBC (_May 2014 - Oct 2015_)**
 - text
 
 
